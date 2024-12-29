@@ -5,7 +5,7 @@ A full-stack web app built with the MERN stack to browse, search, and filter the
 ## Features
 - Browse and filter news by categories.
 - Search articles by keywords.
-- Real-time news updates from News API.
+- News updates from News API.
 
 ## Tech Stack
 - Frontend: React, React Router, Axios
