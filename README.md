@@ -34,7 +34,7 @@ The MERN News App is a full-stack web application that allows users to browse, s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kamal-055/mern-news-app.git
+   git clone https://github.com/Kamal-055/MERN_NEWS_APPP.git
    ```
 
 2. Navigate to the project directory:
@@ -58,7 +58,7 @@ The MERN News App is a full-stack web application that allows users to browse, s
    ```env
    PORT=5000
    MONGO_URI=your_mongodb_connection_string
-   NEWS_API_KEY=your_news_api_key
+   NEWS_API_KEY=cac7aff44d854805bab0464617bea917
    ```
 
 6. Start the backend server:
