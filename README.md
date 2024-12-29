@@ -1,10 +1,10 @@
 # MERN News App
 
-A full-stack web app built with the MERN stack to browse, search, and filter the latest news articles.
+The MERN News App is a full-stack web application that allows users to browse, search, and filter the latest news articles by category or keyword. It leverages the MERN stack (MongoDB, Express.js, React, and Node.js) to provide a seamless user experience for fetching and displaying news in real-time.
 
 ## Features
 - Browse and filter news by categories.
-- Search articles by keywords.
+- Explore diffrent categories
 - News updates from News API.
 
 ## Tech Stack
